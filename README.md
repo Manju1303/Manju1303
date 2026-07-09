@@ -10,41 +10,67 @@
 
 ## 👨‍💻 About Me
 
-```python
-class Manjunath:
-    def __init__(self):
-        self.name        = "K. Manjunath"
-        self.role        = "AI Engineer | Full Stack Developer"
-        self.company     = "Nexavora Technologies (Founder & CEO)"
-        self.education   = "Final Year B.Tech – AI & Data Science"
-        self.location    = "India 🇮🇳"
-        self.portfolio   = "https://manju1303.github.io/Portfolio/"
+<table>
+  <tr>
+    <td valign="top" width="55%">
 
-    @property
-    def currently_learning(self):
-        return [
-            "Large Language Models (LLMs)",
-            "Autonomous Drone Navigation",
-            "ROS2 & MAVLink",
-            "Motion Planning",
-            "Computer Vision",
-            "Cloud Deployment",
-        ]
+### 🙋‍♂️ Who Am I?
 
-    @property
-    def interests(self):
-        return [
-            "Artificial Intelligence", "Machine Learning",
-            "Full Stack Development", "Robotics & Drone AI",
-            "Computer Vision", "Automation", "AI Agents",
-        ]
+🎓 &nbsp;**Final Year B.Tech** — Artificial Intelligence & Data Science
 
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
+🏢 &nbsp;**Founder & CEO** — [Nexavora Technologies](https://github.com/Manju1303)
 
-me = Manjunath()
-me.say_hi()
-```
+🤖 &nbsp;Passionate about **AI, Robotics, Autonomous Drones & AI Agents**
+
+📍 &nbsp;Based in **India 🇮🇳**
+
+🌐 &nbsp;**Portfolio:** [manju1303.github.io/Portfolio](https://manju1303.github.io/Portfolio/)
+
+---
+
+### 🌱 Currently Learning
+
+- 🧠 Large Language Models (LLMs)
+- 🚁 Autonomous Drone Navigation
+- 🤖 ROS2 & MAVLink
+- 🗺️ Motion Planning
+- 👁️ Computer Vision
+- ☁️ Cloud Deployment
+
+    </td>
+    <td valign="top" width="45%">
+
+### 💡 Interests & Passion Areas
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6E40C9?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-0097A7?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Robotics-22314E?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Drone%20AI-003366?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-61DAFB?style=flat-square&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Automation-009688?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SaaS%20Products-5C3EE8?style=flat-square&logoColor=white"/>
+</p>
+
+---
+
+### 🎯 Current Goals
+
+- ✅ Build Production AI Agents
+- ✅ Publish Research in AI & Robotics
+- ✅ Develop Autonomous Drones
+- ✅ Build Scalable SaaS Products
+- ✅ Contribute to Open Source
+- ✅ Scale Nexavora Technologies
+
+    </td>
+  </tr>
+</table>
+
+> 💬 *"Thanks for dropping by! Let's build something amazing together 🚀"*
 
 ---
 
