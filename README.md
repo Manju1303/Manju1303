@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K.%20Manjunath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Founder%20%40%20Nexavora%20Technologies&descAlignY=54&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=🚀+AI+%26+Data+Science+Student;🤖+Building+Intelligent+AI+Agents;🚁+Autonomous+Drone+Researcher;🌐+Full+Stack+Developer;💡+Founder+of+Nexavora+Technologies" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=650&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%9A%80;Building+Intelligent+AI+Agents+%F0%9F%A4%96;Autonomous+Drone+Researcher+%F0%9F%9A%81;Full+Stack+Developer+%F0%9F%8C%90;Founder+of+Nexavora+Technologies+%F0%9F%92%A1" alt="Typing SVG" /></a>
 
 </div>
 
