@@ -1,296 +1,198 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=K.%20Manjunath&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20Founder%20%40%20Nexavora%20Technologies&descAlignY=54&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=K.%20Manjunath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20Coder%20%7C%20Founder%20%40%20Nexavora%20Technologies&descAlignY=58&descSize=15&descColor=c9d1d9"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=false&width=650&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%9A%80;Building+Intelligent+AI+Agents+%F0%9F%A4%96;Autonomous+Drone+Researcher+%F0%9F%9A%81;Full+Stack+Developer+%F0%9F%8C%90;Founder+of+Nexavora+Technologies+%F0%9F%92%A1" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=AI+%26+Data+Science+Student;Agentic+Coder+%7C+AI+Engineer;Autonomous+Drone+Researcher;Founder+of+Nexavora+Technologies" alt="Typing SVG" />
+</a>
 
 </div>
 
+<br/>
+
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 <table>
-  <tr>
-    <td valign="top" width="55%">
+<tr>
+<td valign="top" width="50%">
 
-### 🙋‍♂️ Who Am I?
+**K. Manjunath** is a final-year B.Tech student in Artificial Intelligence & Data Science, and the Founder & CEO of **Nexavora Technologies** — building AI solutions, intelligent automation, and next-generation drone technologies.
 
-🎓 &nbsp;**Final Year B.Tech** — Artificial Intelligence & Data Science
+| | |
+|---|---|
+| **Degree** | B.Tech — AI & Data Science (Final Year) |
+| **Company** | [Nexavora Technologies](https://github.com/Manju1303) |
+| **Focus** | AI Agents · Robotics · Autonomous Drones |
+| **Location** | India |
+| **Portfolio** | [manju1303.github.io/Portfolio](https://manju1303.github.io/Portfolio/) |
 
-🏢 &nbsp;**Founder & CEO** — [Nexavora Technologies](https://github.com/Manju1303)
+</td>
+<td valign="top" width="50%">
 
-🤖 &nbsp;Passionate about **AI, Robotics, Autonomous Drones & AI Agents**
+**Currently Building**
+- Production-grade AI Agents & LLM pipelines
+- Autonomous UAV navigation systems with ROS2
+- Scalable SaaS products under Nexavora Technologies
 
-📍 &nbsp;Based in **India 🇮🇳**
+**Currently Learning**
+- Large Language Models & prompt engineering
+- ROS2 · MAVLink · Motion Planning
+- Computer Vision · Cloud Architecture
 
-🌐 &nbsp;**Portfolio:** [manju1303.github.io/Portfolio](https://manju1303.github.io/Portfolio/)
+</td>
+</tr>
+</table>
 
 ---
 
-### 🌱 Currently Learning
+## Tech Stack
 
-- 🧠 Large Language Models (LLMs)
-- 🚁 Autonomous Drone Navigation
-- 🤖 ROS2 & MAVLink
-- 🗺️ Motion Planning
-- 👁️ Computer Vision
-- ☁️ Cloud Deployment
-
-    </td>
-    <td valign="top" width="45%">
-
-### 💡 Interests & Passion Areas
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-6E40C9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6B35?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-0097A7?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Robotics-22314E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Drone%20AI-003366?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-61DAFB?style=flat-square&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Automation-009688?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20Source-181717?style=flat-square&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SaaS%20Products-5C3EE8?style=flat-square&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/>
+</p>
+
+**Frontend**
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
+</p>
+
+**Backend & Databases**
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase,firebase"/>
+</p>
+
+**AI / ML & Robotics**
+
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLOv8-FF6B00?style=flat-square&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,cloudflare,vscode"/>
 </p>
 
 ---
 
-### 🎯 Current Goals
-
-- ✅ Build Production AI Agents
-- ✅ Publish Research in AI & Robotics
-- ✅ Develop Autonomous Drones
-- ✅ Build Scalable SaaS Products
-- ✅ Contribute to Open Source
-- ✅ Scale Nexavora Technologies
-
-    </td>
-  </tr>
-</table>
-
-> 💬 *"Thanks for dropping by! Let's build something amazing together 🚀"*
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts&perline=6" />
-</p>
-
-### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&perline=6" />
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs&perline=6" />
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,firebase&perline=6" />
-</p>
-
-### 🤖 AI / ML & Robotics
-<p align="center">
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img alt="Scikit-Learn" src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img alt="MediaPipe" src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"/>
-  <img alt="ChromaDB" src="https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white"/>
-  <img alt="ROS2" src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white"/>
-</p>
-
-### ☁️ Cloud, DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,cloudflare,vscode&perline=7" />
-</p>
-
----
-
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Manju1303">AURORA</a></h3>
-      <p><strong>3D AI Voice Assistant</strong></p>
-      <p>A fully animated 3D AI voice assistant with real-time face sync, avatar animation, and AI-powered chat. Combines speech recognition with an expressive visual interface.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Three.js-black?style=flat-square&logo=three.js"/>
-        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-      </p>
-      <ul>
-        <li>🎙️ Voice Commands & Speech Recognition</li>
-        <li>🧊 3D Avatar with Face Sync</li>
-        <li>💬 AI Chat Integration</li>
-        <li>🎭 Real-time Animation Engine</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Manju1303">Memora</a></h3>
-      <p><strong>Persistent AI Memory System</strong></p>
-      <p>An intelligent AI memory system powered by RAG (Retrieval-Augmented Generation) that gives LLMs long-term, persistent memory backed by a local vector database.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Ollama-000?style=flat-square"/>
-      </p>
-      <ul>
-        <li>🗃️ Long-Term Memory Persistence</li>
-        <li>🔍 RAG-Powered Retrieval</li>
-        <li>🦙 Local LLM (Ollama + Llama)</li>
-        <li>⚡ ChromaDB Vector Store</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏥 <a href="https://github.com/Manju1303">HealthGuard AI</a></h3>
-      <p><strong>NABH Compliance Automation</strong></p>
-      <p>An AI-driven platform that automates NABH hospital accreditation compliance scoring, generates audit reports, and provides a real-time analytics dashboard for healthcare administrators.</p>
-      <p>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-      </p>
-      <ul>
-        <li>📊 AI Compliance Scoring Engine</li>
-        <li>🏨 Hospital Admin Dashboard</li>
-        <li>📄 Automated Report Generation</li>
-        <li>📈 Real-time Analytics</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍽 <a href="https://github.com/Manju1303/JKKM-MESS">Hostel Mess ERP</a></h3>
-      <p><strong>Enterprise Hostel Management System</strong></p>
-      <p>A full-stack ERP system for hostel mess management with AI-powered consumption prediction, inventory control, attendance integration, and comprehensive reporting.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
-      </p>
-      <ul>
-        <li>📦 Smart Inventory Management</li>
-        <li>🤖 AI Consumption Prediction</li>
-        <li>✅ Attendance Integration</li>
-        <li>📊 Dashboard & Analytics</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" colspan="2">
-      <h3>🚁 AI Autonomous Drone</h3>
-      <p><strong>Research Project — Intelligent UAV System</strong></p>
-      <p>A research-grade autonomous drone system integrating computer vision, AI navigation, and multi-modal control interfaces for agricultural and surveillance applications.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MAVLink-003366?style=flat-square"/>
-        <img src="https://img.shields.io/badge/YOLOv8-FF6B00?style=flat-square"/>
-      </p>
-      <p>
-        🗺️ Waypoint Navigation &nbsp;|&nbsp;
-        🚧 Obstacle Avoidance &nbsp;|&nbsp;
-        🌿 Plant Disease Detection &nbsp;|&nbsp;
-        💨 Wind-aware Path Planning &nbsp;|&nbsp;
-        🔒 Geofencing &nbsp;|&nbsp;
-        🎙️ Voice Commands &nbsp;|&nbsp;
-        🤚 Gesture Recognition &nbsp;|&nbsp;
-        👤 Face Recognition
-      </p>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+**AURORA — 3D AI Voice Assistant**
+
+A fully animated 3D AI voice assistant with real-time lip sync, avatar animation, and conversational AI. Combines speech recognition with an expressive visual interface for a natural human-computer interaction experience.
+
+`Python` `Three.js` `LangChain` `WebSpeech API`
+
+</td>
+<td width="50%" valign="top">
+
+**Memora — Persistent AI Memory System**
+
+An intelligent memory layer for LLMs powered by RAG (Retrieval-Augmented Generation). Gives AI models long-term, persistent memory backed by a local vector database for contextual recall across sessions.
+
+`Python` `ChromaDB` `Ollama` `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**HealthGuard AI — NABH Compliance Platform**
+
+An AI-driven platform that automates hospital accreditation compliance scoring under the NABH framework. Generates granular audit reports, identifies compliance gaps, and provides a real-time analytics dashboard.
+
+`FastAPI` `React` `PostgreSQL` `Scikit-Learn`
+
+</td>
+<td width="50%" valign="top">
+
+**JKKM Mess ERP — Hostel Management System**
+
+A full-stack enterprise ERP for hostel mess management featuring AI-powered consumption prediction, real-time inventory control, attendance integration, purchase tracking, and comprehensive business analytics.
+
+`Next.js` `FastAPI` `Supabase` `PostgreSQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+**AI Autonomous Drone — Research UAV System**
+
+A research-grade autonomous drone system integrating computer vision, AI navigation algorithms, and multi-modal control for agricultural and surveillance applications. Built on ROS2 with MAVLink communication protocol.
+
+Core capabilities: Waypoint navigation · Obstacle avoidance · Plant disease detection · Wind-aware path planning · Geofencing · Voice & gesture control · Face recognition
+
+`ROS2` `MAVLink` `Python` `OpenCV` `YOLOv8` `ArduPilot`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Manju1303&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju1303&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manju1303&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju1303&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Manju1303&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Manju1303&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
----
-
-## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Manju1303&theme=onestar&no-frame=true&no-bg=true&margin-w=10&row=1&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manju1303&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manju1303&theme=tokyo-night&bg_color=0D1117&hide_border=true&area=true" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🎯 Current Goals
-
-<table>
-  <tr>
-    <td>✅ Build Production-Ready AI Agents</td>
-    <td>✅ Develop Intelligent Autonomous Drones</td>
-  </tr>
-  <tr>
-    <td>✅ Publish Research in AI & Robotics</td>
-    <td>✅ Build Scalable SaaS Products</td>
-  </tr>
-  <tr>
-    <td>✅ Contribute to Open Source</td>
-    <td>✅ Scale Nexavora Technologies</td>
-  </tr>
-</table>
-
----
-
-## 🌐 Connect With Me
+## Connect
 
 <div align="center">
 
 <a href="https://manju1303.github.io/Portfolio/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-6E40C9?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Manju1303">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://linkedin.com/in/your-linkedin">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:your-email@example.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -298,19 +200,15 @@
 <br/>
 
 <div align="center">
-
-🏢 **[Nexavora Technologies](https://github.com/Manju1303)** — Building AI Solutions, Intelligent Automation & Digital Products
-
+<sub>Nexavora Technologies &nbsp;·&nbsp; Building AI Solutions, Intelligent Automation & Digital Products</sub>
 </div>
 
----
+<br/>
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=Manju1303&label=Profile+Views&color=302b63&style=flat-square"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Manju1303&label=Profile+Views&color=6E40C9&style=flat-square" alt="Profile Views"/>
-
-### ✨ *"Code. Build. Learn. Innovate. Repeat."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer"/>
 </div>
