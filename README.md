@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A2E,100:39FF14&height=200&section=header&text=K.Manjunath&fontSize=46&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Founder+%26+CEO+of+Nexvora+Technologies&descAlignY=55&descSize=16&descColor=FFFFFF"/>
+# 🚀 K. Manjunath
+
+### Founder & CEO, Nexvora Technologies
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Agents+%26+RAG+Systems;Turning+Ideas+into+AI+Products;Agentic+Coder+%7C+AI+%2B+Robotics;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
@@ -225,6 +227,6 @@ Technology isn't just code, for me — I also enjoy:
 
 <img src="https://komarev.com/ghpvc/?username=Manju1303&label=Profile+Views&color=39FF14&style=flat-square"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:39ff14&height=100&section=footer"/>
+<sub>⚡ Thanks for stopping by — always building something new.</sub>
 
 </div>
