@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:39ff14&height=200&section=header&text=K.%20Manjunath&fontSize=46&fontColor=39ff14&animation=fadeIn&fontAlignY=34&desc=Founder%20%26%20CEO%2C%20Nexvora%20Technologies%20%E2%80%A2%20GenAI%20Engineer&descAlignY=54&descSize=15&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A2E,100:39FF14&height=200&section=header&text=K.Manjunath&fontSize=46&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Founder+%26+CEO+of+Nexvora+Technologies&descAlignY=55&descSize=16&descColor=FFFFFF"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Agents+%26+RAG+Systems;Turning+Ideas+into+AI+Products;Agentic+Coder+%7C+AI+%2B+Robotics;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
