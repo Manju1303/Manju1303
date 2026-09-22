@@ -1,61 +1,63 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=180&section=header&text=K.%20Manjunath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Aspiring%20GenAI%20Engineer%20%7C%20AI%20Agents%20%7C%20RAG%20%7C%20Agentic%20Coder&descAlignY=58&descSize=14&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=200&section=header&text=K.%20Manjunath&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=GenAI%20Engineer%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20RAG%20%E2%80%A2%20Agentic%20Coder&descAlignY=54&descSize=15&descColor=e2e8f0"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1200&color=06b6d4&center=true&vCenter=true&width=700&height=40&lines=Aspiring+GenAI+Engineer;AI+Agents+%26+RAG+Developer;Agentic+Coder+%7C+AI+Builder;Building+AI-Powered+Applications;AI+%26+Data+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=19&duration=2800&pause=1000&color=8b5cf6&center=true&vCenter=true&width=650&height=40&lines=Building+AI+Agents+%26+RAG+Systems;Turning+Ideas+into+AI+Products;Vibe+Coder+%7C+AI+%2B+Robotics;Final-Year+AI+%26+Data+Science+Student" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://manju1303.github.io/Portfolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=firefox&logoColor=06b6d4" />
+</a>
+<a href="https://www.linkedin.com/in/manjunath-manjunath-248594352" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:manjunathkaids23@jkkmct.edu.in">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://www.instagram.com/mjx_1303" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-0f172a?style=for-the-badge&logo=instagram&logoColor=E4405F" />
 </a>
 
 </div>
 
 <br/>
 
----
-
 ## 👋 About Me
+
+I'm a final-year **B.Tech AI & Data Science** student building practical, production-shaped AI systems — not toy demos. My focus sits at the intersection of **Generative AI, LLM applications, AI Agents, RAG, and full-stack AI development**: designing the architecture, building the AI layer, then shipping it as a real API and interface.
+
+```
+IDEA → AI ARCHITECTURE → LLM / RAG / AGENT → API + APP → TEST → DEPLOY
+```
+
+I learn by building, breaking, and rebuilding real systems — not just reading papers about them.
 
 <table>
 <tr>
-<td valign="top" width="55%">
+<td valign="top" width="50%">
 
-### Hi, I'm Manjunath
+**🎓 Education**
+B.Tech — AI & Data Science, JKKMCT
+Graduating 2027
 
-I'm a final-year **B.Tech Artificial Intelligence & Data Science** student focused on building practical AI systems and intelligent applications.
+**⚡ Identity**
+GenAI Engineer · Agentic Coder · AI Builder
 
-My core interests include **Generative AI, LLM applications, AI Agents, Retrieval-Augmented Generation (RAG), AI automation, and full-stack AI development**.
-
-I enjoy turning ideas into working products — from designing the architecture and building the AI layer to developing APIs, interfaces, and deployment workflows.
-
-|                          |                                                                         |
-| ------------------------ | ----------------------------------------------------------------------- |
-| 🎓 **Education**         | B.Tech — Artificial Intelligence & Data Science                         |
-| 🤖 **Primary Focus**     | Generative AI · AI Agents · RAG · LLMs                                  |
-| ⚡ **Developer Identity** | Agentic Coder · AI Builder                                              |
-| 📍 **Location**          | India                                                                   |
-| 🌐 **Portfolio**         | [manju1303.github.io/Portfolio](https://manju1303.github.io/Portfolio/) |
+**📍 Based in**
+India
 
 </td>
+<td valign="top" width="50%">
 
-<td valign="top" width="45%">
+**🎯 Currently exploring**
+Multi-Agent Systems · Local LLMs
+AI Automation · Production AI · AI + Robotics
 
-### 🚀 What I Build
-
-* 🤖 **Generative AI Applications**
-* 🧠 **AI Agents & Agentic Workflows**
-* 📚 **RAG & Knowledge Systems**
-* 🔗 **LLM Chains & Tool Calling**
-* 💾 **Persistent AI Memory**
-* ⚡ **AI-powered APIs**
-* 🌐 **Full-Stack AI Products**
-* 🚁 **AI + Robotics Systems**
-
-### 🎯 Currently Exploring
-
-**Multi-Agent Systems**
-**Local LLMs**
-**AI Automation**
-**Production AI**
-**AI + Robotics**
+**💼 Also**
+Freelance web developer — client sites & ERP systems
 
 </td>
 </tr>
@@ -65,45 +67,92 @@ I enjoy turning ideas into working products — from designing the architecture 
 
 ## 🧠 AI Engineering Focus
 
-<div align="center">
+| Domain | Stack |
+|---|---|
+| 🤖 **Generative AI** | LLMs · Prompt Engineering · Local LLMs (Ollama) |
+| 🧩 **AI Agents** | Tool Calling · Agentic Workflows · LangChain |
+| 📚 **RAG** | Embeddings · Vector Search · ChromaDB |
+| 💾 **AI Memory** | Persistent Memory · Context Retrieval |
+| ⚡ **Backend** | Python · FastAPI |
+| 🌐 **Frontend** | React · Next.js · TypeScript |
+| 🗄️ **Data** | PostgreSQL · Supabase · Vector DBs |
+| 🚀 **Deploy** | Docker · Vercel · Render · Railway · Cloudflare |
 
-| Domain                 | Technologies & Concepts                                     |
-| :--------------------- | :---------------------------------------------------------- |
-| 🤖 **Generative AI**   | LLMs · Prompt Engineering · Local LLMs                      |
-| 🧩 **AI Agents**       | Tool Calling · Agentic Workflows · LLM Chains               |
-| 📚 **RAG**             | Embeddings · Vector Search · ChromaDB · Retrieval Pipelines |
-| 💾 **AI Memory**       | Persistent Memory · Context Retrieval · Knowledge Stores    |
-| ⚡ **AI Backend**       | Python · FastAPI · API Integration                          |
-| 🌐 **AI Applications** | React · Next.js · TypeScript                                |
-| 🗄️ **Data**           | PostgreSQL · Supabase · Vector Databases                    |
-| 🚀 **Deployment**      | Docker · Vercel · Render · Railway · Cloudflare             |
+---
 
-</div>
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AURORA
+**3D AI Voice Assistant**
+Conversational AI with speech interaction wrapped in a 3D interface for immersive human–computer interaction.
+`Python` `Three.js` `LangChain` `Web Speech API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 Memora
+**Persistent AI Memory System**
+RAG-based memory layer giving LLM apps persistent contextual memory across conversations via vector retrieval.
+`Python` `ChromaDB` `Ollama` `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 HealthGuard AI
+**NABH Compliance Automation**
+Compliance platform for hospitals — structured checklists, rule-based evaluation, validity-aware scoring, automated reporting.
+`Python` `FastAPI` `React` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🍽️ JKKM Mess ERP
+**AI-Assisted Mess Management**
+Full-stack mess ops platform — attendance, inventory, purchase tracking, analytics, AI consumption prediction.
+`Next.js` `FastAPI` `PostgreSQL` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Personal LLM
+**Local AI Environment**
+Sandbox for running and interacting with locally hosted LLMs — privacy-focused inference and workflow experiments.
+`Python` `Ollama` `Local AI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚁 AI Autonomous Drone
+**AI + Robotics**
+UAV exploring autonomous navigation, computer vision, geofencing, obstacle avoidance, and gesture/voice control.
+`ROS 2` `MAVLink` `OpenCV` `YOLO` `ArduPilot`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Languages**
+<p><img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts"/>
-</p>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/></p>
 
-### 🌐 Frontend
+**Backend & Data**
+<p><img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase,firebase"/></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind"/>
-</p>
-
-### ⚡ Backend & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase,firebase"/>
-</p>
-
-### 🤖 AI / ML / LLM
-
+**AI / ML / LLM**
 <p>
 <img src="https://img.shields.io/badge/Generative_AI-8b5cf6?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/LLMs-06b6d4?style=flat-square&logoColor=white"/>
@@ -118,178 +167,19 @@ I enjoy turning ideas into working products — from designing the architecture 
 <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white"/>
 </p>
 
-### ☁️ Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,cloudflare,vscode"/>
-</p>
+**Cloud, DevOps & Tools**
+<p><img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,cloudflare,vscode"/></p>
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AURORA
-
-**3D AI Voice Assistant**
-
-An interactive AI voice assistant combining conversational AI, speech interaction, and a 3D interface to create an immersive human-computer interaction experience.
-
-**Tech**
-
-`Python` `Three.js` `LangChain` `Web Speech API`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Memora
-
-**Persistent AI Memory System**
-
-A RAG-based memory layer designed to provide LLM applications with persistent contextual memory across conversations using vector-based retrieval.
-
-**Tech**
-
-`Python` `ChromaDB` `Ollama` `LangChain` `RAG`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🏥 HealthGuard AI
-
-**NABH Compliance Automation**
-
-An intelligent compliance platform designed to assist hospitals in evaluating NABH requirements through structured checklists, rule-based evaluation, validity-aware scoring, and automated reporting.
-
-**Tech**
-
-`Python` `FastAPI` `React` `PostgreSQL`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍽️ JKKM Mess ERP
-
-**AI-Assisted Mess Management System**
-
-A full-stack platform for mess operations featuring attendance integration, inventory management, purchase tracking, analytics, and AI-assisted consumption prediction.
-
-**Tech**
-
-`Next.js` `FastAPI` `PostgreSQL` `Supabase`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Personal LLM
-
-**Local AI Environment**
-
-A personal experimentation environment for running and interacting with locally hosted LLMs, exploring model workflows, AI applications, and privacy-focused local inference.
-
-**Tech**
-
-`Python` `Ollama` `LLMs` `Local AI`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🚁 AI Autonomous Drone
-
-**AI + Robotics Project**
-
-An experimental UAV system exploring autonomous navigation, computer vision, geofencing, waypoint navigation, obstacle avoidance, and multimodal interaction.
-
-**Core Capabilities**
-
-Waypoint Navigation · Obstacle Avoidance · Geofencing · Computer Vision · Voice & Gesture Control
-
-**Tech**
-
-`ROS 2` `MAVLink` `Python` `OpenCV` `YOLO` `ArduPilot`
-
-</td>
-
-</tr>
-</table>
-
----
-
-## ⚙️ From Idea to AI Product
-
-```text
-             💡 IDEA
-                │
-                ▼
-       ┌─────────────────┐
-       │  AI ARCHITECTURE │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ LLM / RAG / AGENT│
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ API + APPLICATION│
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ TEST + EVALUATE │
-       └────────┬────────┘
-                │
-                ▼
-       ┌─────────────────┐
-       │ DEPLOY + IMPROVE │
-       └─────────────────┘
-```
-
-> **I learn by building, testing, and iterating on real systems.**
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-stats-extended.vercel.app/api?username=Manju1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-
- 
-
-<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manju1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-</div>
-
-<br/>
-
-<div align="center">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Manju1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manju1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com?user=Manju1303&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manju1303&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph"/>
 
@@ -297,60 +187,11 @@ Waypoint Navigation · Obstacle Avoidance · Geofencing · Computer Vision · Vo
 
 ---
 
-## 🔭 Currently Exploring
-
-<div align="center">
-
-`Multi-Agent Systems` · `Advanced RAG` · `LLM Tool Calling` · `AI Memory`
-
-`Local LLMs` · `AI Automation` · `Production AI` · `AI + Robotics`
-
-</div>
-
----
-
 ## 🏆 Beyond Coding
 
-Technology for me is not limited to writing code.
+Technology isn't just code, for me — I also enjoy:
 
-I also enjoy exploring the intersection of **AI, product development, design, automation, and emerging technologies**.
-
-* 💡 AI product development
-* 🎨 UI/UX and interactive web experiences
-* 🧪 Hackathons & technical competitions
-* 🤝 Technical collaboration
-* 📢 Digital technology & marketing
-* 🚀 Experimenting with emerging technologies
-
----
-
-## 🌐 Connect
-
-<div align="center">
-
-<a href="https://manju1303.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-06b6d4?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
-</a>
-&nbsp;
-<a href="https://github.com/Manju1303" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/manjunath-manjunath-248594352" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://www.instagram.com/mjx_1303" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-&nbsp;
-<a href="mailto:manjunathkaids23@jkkmct.edu.in">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</div>
-
-<br/>
+💡 AI product development · 🎨 UI/UX & interactive web · 🧪 Hackathons & competitions · 🤝 Technical collaboration · 📢 Digital tech & marketing
 
 ---
 
@@ -358,28 +199,12 @@ I also enjoy exploring the intersection of **AI, product development, design, au
 
 ### ⚡ `Code → AI → Agents → Impact`
 
-**Building intelligent systems, one project at a time. 🚀**
+<sub>Generative AI · AI Agents · RAG · LLM Applications · Full-Stack Development · Robotics</sub>
 
-<br/>
+<br/><br/>
 
-<sub>
-Generative AI · AI Agents · RAG · LLM Applications · Full-Stack Development · Robotics
-</sub>
+<img src="https://komarev.com/ghpvc/?username=Manju1303&label=Profile+Views&color=8b5cf6&style=flat-square"/>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Manju1303&label=Profile+Views&color=06b6d4&style=flat-square"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:8b5cf6,100:ec4899&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:7c3aed,100:06b6d4&height=100&section=footer"/>
 
 </div>
