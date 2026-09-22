@@ -1,221 +1,324 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:111827,100:39ff14&height=180&section=header&text=K.%20Manjunath&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Founder%20%7C%20Agentic%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img width="850" src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:050816,50:0B1026,100:111936&text=K.%20MANJUNATH&fontSize=42&fontColor=67E8F9&fontAlignY=42&desc=NEXVORA%20TECHNOLOGIES%20%7C%20AI%20ENGINEER%20%7C%20FOUNDER&descSize=14&descColor=C4B5FD&descAlignY=64&animation=fadeIn" />
 
-# K. Manjunath
+<br>
 
-### Founder & CEO @ Nexvora Technologies · AI Engineer · Agentic Builder
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=750&lines=Building+AI+Agents+%26+RAG+Systems;Generative+AI+%7C+LLMs+%7C+AI+Agents+%7C+RAG;AI+%2B+Robotics+%2B+Automation;B.Tech+AI+%26+Data+Science+%7C+Graduating+2027" />
 
-<p>
-  <a href="https://manju1303.github.io/Portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=firefox&logoColor=39FF14"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manjunath-manjunath-248594352">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="mailto:manjunathkaids23@jkkmct.edu.in">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-  </a>
-  <a href="https://www.instagram.com/mjx_1303">
-    <img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
-  </a>
-</p>
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=39FF14&center=true&vCenter=true&width=700&height=35&lines=Building+AI+Agents+%26+RAG+Systems;Engineering+LLM-Powered+Applications;Turning+Ideas+into+Working+Products;Exploring+AI+%2B+Robotics;Learning+by+Building%2C+Breaking+%26+Rebuilding" />
+<a href="https://manju1303.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1026?style=for-the-badge&logo=firefox&logoColor=67E8F9"/>
+</a>
+&nbsp;
+<a href="https://github.com/Manju1303">
+<img src="https://img.shields.io/badge/GITHUB-0B1026?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/manjunath-manjunath-248594352">
+<img src="https://img.shields.io/badge/LINKEDIN-0B1026?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+</a>
+&nbsp;
+<a href="mailto:manjunathkaids23@jkkmct.edu.in">
+<img src="https://img.shields.io/badge/EMAIL-0B1026?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/mjx_1303">
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1026?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
+</a>
 
 </div>
 
 ---
 
-## `> whoami`
-
-I'm **K. Manjunath**, a B.Tech Artificial Intelligence & Data Science student and the **Founder & CEO of Nexvora Technologies**.
-
-I build AI-powered applications that connect **LLMs, agents, retrieval systems, automation, computer vision, and full-stack software** into usable products.
-
-My approach is simple:
-
-> **Understand the problem → design the system → build the AI layer → ship the product → iterate.**
-
-I'm particularly interested in the space between **AI research and practical software engineering** — taking emerging AI capabilities and turning them into systems people can actually interact with.
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     MANJUNATH.EXE                           │
-├─────────────────────────────────────────────────────────────┤
-│  Role        Founder & CEO · AI Engineer                    │
-│  Education   B.Tech AI & Data Science                       │
-│  Focus       GenAI · Agents · RAG · AI Products             │
-│  Building    Nexvora Technologies                           │
-│  Exploring   Multi-Agent Systems · Local LLMs · Robotics   │
-│  Philosophy  Build → Break → Learn → Rebuild → Ship        │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## What I Build
+# 01 / IDENTITY
 
 <table>
 <tr>
-<td width="33%" align="center">
 
-### 🧠 Generative AI
+<td width="62%" valign="top">
 
-LLM applications, prompt engineering, local models and AI-powered workflows.
+## Building systems around intelligence.
 
-</td>
+I'm **K. Manjunath**, a B.Tech **Artificial Intelligence & Data Science** student and **Founder & CEO of Nexvora Technologies**.
 
-<td width="33%" align="center">
+I build practical AI systems across **Generative AI, LLM applications, AI Agents, RAG, AI memory, automation, computer vision and full-stack development**.
 
-### 🤖 AI Agents
+I enjoy taking ideas beyond experimentation and turning them into working systems.
 
-Tool calling, agentic workflows, automation and multi-step reasoning systems.
+My approach:
 
-</td>
+**Problem → Architecture → Intelligence → Product → Feedback**
 
-<td width="33%" align="center">
-
-### 📚 RAG & Memory
-
-Embeddings, vector search, contextual retrieval and persistent AI memory.
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" align="center">
-
-### 👁️ Computer Vision
-
-Object detection, OCR, image understanding and real-world vision systems.
+I'm particularly interested in the intersection of **AI engineering, software development, product thinking and emerging technology**.
 
 </td>
 
-<td width="33%" align="center">
+<td width="38%" valign="top">
 
-### 🌐 Full-Stack AI
+## PROFILE
 
-React, Next.js, FastAPI and databases powering AI applications.
+**Education**  
+B.Tech — AI & Data Science
+
+**Graduation**  
+2027
+
+**Role**  
+Founder & CEO — Nexvora Technologies
+
+**Focus**  
+AI · GenAI · Agents · RAG
+
+**Interests**  
+AI Products · Automation · Robotics
+
+**Based**  
+India
 
 </td>
 
-<td width="33%" align="center">
-
-### 🚀 AI + Robotics
-
-Exploring autonomous systems, drones, voice interfaces and human-machine interaction.
-
-</td>
 </tr>
 </table>
 
 ---
 
-# Selected Projects
+# 02 / AI ENGINEERING
 
-> A few systems I'm building, experimenting with and evolving.
+```mermaid
+flowchart LR
+
+    A((DISCOVER))
+    B((DESIGN))
+    C((INTELLIGENCE))
+    D((BUILD))
+    E((SHIP))
+    F((MEASURE))
+    G((ITERATE))
+
+    A --> B
+    B --> C
+    C --> D
+    D --> E
+    E --> F
+    F --> G
+    G --> A
+
+    C --- LLM["LLMs"]
+    C --- RAG["RAG"]
+    C --- AG["AI AGENTS"]
+    C --- MEM["AI MEMORY"]
+    C --- TOOLS["TOOLS"]
+
+    style A fill:#0B1026,stroke:#22D3EE,color:#67E8F9
+    style B fill:#0B1026,stroke:#8B5CF6,color:#C4B5FD
+    style C fill:#111936,stroke:#A78BFA,color:#F0ABFC
+    style D fill:#0B1026,stroke:#EC4899,color:#F0ABFC
+    style E fill:#0B1026,stroke:#22D3EE,color:#67E8F9
+    style F fill:#0B1026,stroke:#8B5CF6,color:#C4B5FD
+    style G fill:#0B1026,stroke:#EC4899,color:#F0ABFC
+
+    style LLM fill:#111827,stroke:#475569,color:#CBD5E1
+    style RAG fill:#111827,stroke:#475569,color:#CBD5E1
+    style AG fill:#111827,stroke:#475569,color:#CBD5E1
+    style MEM fill:#111827,stroke:#475569,color:#CBD5E1
+    style TOOLS fill:#111827,stroke:#475569,color:#CBD5E1
+````
+
+<div align="center">
+
+**PROBLEM → ARCHITECTURE → INTELLIGENCE → PRODUCT → FEEDBACK → ITERATION**
+
+</div>
+
+---
+
+# 03 / WHAT I BUILD
+
+<div align="center">
 
 <table>
 <tr>
+
+<td align="center" width="25%">
+
+### INTELLIGENCE
+
+Generative AI
+LLM Applications
+Computer Vision
+Multimodal AI
+
+</td>
+
+<td align="center" width="25%">
+
+### KNOWLEDGE
+
+RAG Systems
+Vector Search
+Embeddings
+AI Memory
+
+</td>
+
+<td align="center" width="25%">
+
+### ACTION
+
+AI Agents
+Tool Calling
+Automation
+Agentic Workflows
+
+</td>
+
+<td align="center" width="25%">
+
+### EXPERIENCE
+
+Full-Stack AI
+AI APIs
+Interactive UI
+AI + Robotics
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 04 / FEATURED PROJECTS
+
+<table>
+<tr>
+
 <td width="50%" valign="top">
 
-## 🤖 AURORA
+## AURORA
 
-### 3D AI Voice Assistant
+### AI Avatar / 3D Voice Assistant
 
-A conversational AI interface combining voice interaction with a 3D visual experience.
+An interactive AI assistant exploring conversational intelligence, voice interaction, face and emotion understanding, and a 3D avatar experience.
 
-**Exploring**
+**Technology**
 
-`Python` `LLMs` `Voice AI` `Three.js` `Computer Vision`
+`Python` `Whisper` `Gemini` `ElevenLabs` `SadTalker` `Blender`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🧠 Memora
+## MEMORA
 
-### Persistent AI Memory
+### Persistent Semantic AI Memory
 
-A memory layer for AI applications that stores and retrieves contextual information across conversations.
+An AI assistant architecture focused on persistent memory, semantic retrieval and contextual continuity across conversations.
 
-**Core concepts**
+**Technology**
 
-`Python` `RAG` `ChromaDB` `Ollama` `LangChain`
+`Python` `RAG` `Embeddings` `Vector Search` `Ollama`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## 🏥 HealthGuard AI
+## HEALTHGUARD AI
 
-### NABH Compliance Platform
+### NABH Pre-Entry Compliance System
 
-A structured compliance system designed to assist hospitals with checklist management, evaluation and reporting.
+A decision-support platform designed around hospital compliance workflows, structured checklists, certificate validity, scoring and automated reporting.
 
-**Stack**
+**Technology**
 
-`FastAPI` `React` `Python` `PostgreSQL`
+`Next.js` `FastAPI` `PostgreSQL` `AI`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🍽️ JKKM Mess ERP
+## JKKM MESS ERP
 
-### Intelligent Mess Management
+### AI-Assisted Mess Management
 
-A full-stack platform for managing attendance, inventory, purchasing and operational analytics with AI-assisted insights.
+A full-stack system for attendance, inventory, purchasing, analytics and consumption-oriented insights.
 
-**Stack**
+**Technology**
 
-`Next.js` `FastAPI` `PostgreSQL` `Supabase`
+`Next.js` `FastAPI` `Supabase` `PostgreSQL`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## 🧠 Personal LLM
+## PERSONAL LLM
 
-### Local AI Playground
+### Local AI Experimentation
 
-An experimental environment for working with locally hosted LLMs and privacy-focused AI workflows.
+An experimental environment for running and interacting with locally hosted LLMs while exploring AI workflows and privacy-focused inference.
 
-**Stack**
+**Technology**
 
-`Python` `Ollama` `Local LLMs`
+`Python` `Ollama` `LLMs` `Local AI`
 
 </td>
 
 <td width="50%" valign="top">
 
-## 🚁 Autonomous Drone
+## AI AUTONOMOUS DRONE
 
-### AI + Robotics
+### AI × Robotics
 
-Exploring computer vision, autonomous navigation, obstacle avoidance, geofencing and human-machine interaction for UAV systems.
+Exploring autonomous navigation, computer vision, obstacle avoidance, geofencing, MAVLink communication and intelligent UAV systems.
 
-**Exploring**
+**Technology**
 
 `ROS 2` `MAVLink` `OpenCV` `YOLO` `ArduPilot`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# Engineering Stack
+# 05 / OTHER PROJECTS
+
+<div align="center">
+
+| PROJECT                  | AREA                         | TECHNOLOGY                  |
+| :----------------------- | :--------------------------- | :-------------------------- |
+| **LucidOCR**             | AI OCR for scanned documents | Python · OCR                |
+| **Theft Detection**      | CCTV intelligence            | Python · OpenCV · YOLO      |
+| **Stepcount**            | Activity tracking            | JavaScript · Supabase       |
+| **Air Canva**            | Air-writing interface        | Python · OpenCV · MediaPipe |
+| **Assignment Bot**       | AI workflow automation       | Python · n8n                |
+| **Home Services**        | Service booking platform     | TypeScript · Full Stack     |
+| **AI-Humarizer**         | AI application               | TypeScript                  |
+| **Visualization Charts** | Data visualization           | CSS · JavaScript            |
+
+</div>
+
+---
+
+# 06 / TECHNOLOGY
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,ts" />
 </p>
 
 ### Frontend
@@ -230,25 +333,25 @@ Exploring computer vision, autonomous navigation, obstacle avoidance, geofencing
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgres,mysql,supabase,firebase" />
 </p>
 
-### AI / ML
+### AI / ML / LLM
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<img src="https://img.shields.io/badge/GENERATIVE_AI-111827?style=for-the-badge&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logoColor=67E8F9"/>
+<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/AI_AGENTS-111827?style=for-the-badge&logoColor=F0ABFC"/>
+<img src="https://img.shields.io/badge/LANGCHAIN-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HUGGING_FACE-111827?style=for-the-badge&logo=huggingface"/>
+<img src="https://img.shields.io/badge/CHROMADB-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OLLAMA-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TENSORFLOW-111827?style=for-the-badge&logo=tensorflow"/>
+<img src="https://img.shields.io/badge/OPENCV-111827?style=for-the-badge&logo=opencv"/>
+<img src="https://img.shields.io/badge/MEDIAPIPE-111827?style=for-the-badge"/>
+
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=for-the-badge&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge&logoColor=39FF14"/>
-<img src="https://img.shields.io/badge/RAG-111827?style=for-the-badge&logoColor=ff006e"/>
-<img src="https://img.shields.io/badge/AI%20Agents-111827?style=for-the-badge&logoColor=ff006e"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ChromaDB-111827?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/MediaPipe-111827?style=for-the-badge"/>
-</p>
-
-### DevOps & Tools
+### Tools & Deployment
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,cloudflare,vscode" />
@@ -256,98 +359,162 @@ Exploring computer vision, autonomous navigation, obstacle avoidance, geofencing
 
 ---
 
-# Nexvora Technologies
+# 07 / NEXVORA TECHNOLOGIES
 
 <div align="center">
 
-### Building useful technology with AI at the core.
+## `INTELLIGENCE × SOFTWARE × IMPACT`
 
 </div>
 
-**Nexvora Technologies** is the direction I'm building toward — exploring practical applications of AI, automation and software engineering.
+**Nexvora Technologies** is my founder-led technology direction focused on practical applications of **AI, intelligent automation and emerging technologies**.
 
-The goal is not simply to build another AI demo.
+The vision is to move beyond isolated AI experiments and build complete systems where:
 
-It's to turn ideas into **useful, deployable and continuously improving products.**
+`AI Models` + `Data` + `Agents` + `Software` + `Users`
 
-```text
-IDEA
-  │
-  ▼
-PROBLEM
-  │
-  ▼
-SYSTEM DESIGN
-  │
-  ├── AI / LLM
-  ├── RAG / MEMORY
-  ├── AGENTS / AUTOMATION
-  ├── API / BACKEND
-  └── PRODUCT INTERFACE
-  │
-  ▼
-BUILD
-  │
-  ▼
-TEST
-  │
-  ▼
-SHIP
-  │
-  ▼
-ITERATE
-```
+come together to solve meaningful problems.
+
+### Direction
+
+`Generative AI` · `Agentic Systems` · `AI Automation` · `Intelligent Products` · `AI + Robotics`
 
 ---
 
-# GitHub Activity
+# 08 / CURRENTLY EXPLORING
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## 01
+
+### Multi-Agent Systems
+
+Collaborative agent architectures and specialized AI workflows.
+
+</td>
+
+<td width="25%" align="center">
+
+## 02
+
+### Advanced RAG
+
+Retrieval, context engineering, knowledge grounding and evaluation.
+
+</td>
+
+<td width="25%" align="center">
+
+## 03
+
+### Local LLMs
+
+Private inference, local AI environments and model experimentation.
+
+</td>
+
+<td width="25%" align="center">
+
+## 04
+
+### AI + Robotics
+
+Connecting intelligent software with physical autonomous systems.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 09 / BEYOND CODE
+
+Technology for me is more than writing software.
+
+I'm interested in the intersection of:
+
+**AI × Product × Design × Automation × Emerging Technology**
+
+Areas I enjoy:
+
+`AI Product Development`
+`UI / UX`
+`Technical Collaboration`
+`Hackathons`
+`Automation`
+`Entrepreneurship`
+`Emerging Technology`
+
+I learn by building projects that force me to understand something new.
+
+---
+
+# 10 / GITHUB ACTIVITY
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manju1303&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%" />
-
-<br/><br/>
-
-<img height="165" src="https://github-stats-extended.vercel.app/api?username=Manju1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Manju1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com?user=Manju1303&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manju1303&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manju1303&theme=tokyonight" width="90%" />
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manju1303&theme=tokyonight" height="170" />
+
+   
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manju1303&theme=tokyonight" height="170" />
 
 </div>
 
 ---
 
-# Beyond Code
+# 11 / CONNECT
 
-I enjoy working across the boundaries of software and product development.
+<div align="center">
 
-**AI Product Development** · **UI/UX** · **Automation** · **Hackathons** · **Technical Collaboration** · **Entrepreneurship** · **AI + Robotics**
+<a href="https://manju1303.github.io/Portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-6366F1?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
 
-I'm especially interested in projects where the solution requires more than just writing code — understanding the user, designing the system and finding a practical way to ship it.
+<a href="https://github.com/Manju1303">
+<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/manjunath-manjunath-248594352">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/mjx_1303">
+<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:manjunathkaids23@jkkmct.edu.in">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-## `Build. Learn. Ship. Repeat.`
+## `BUILD · LEARN · SHIP · REPEAT`
 
-### AI × Agents × Products × Robotics
+**AI** × **AGENTS** × **PRODUCTS** × **ROBOTICS**
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Manju1303&label=PROFILE+VIEWS&color=39FF14&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Manju1303&label=PROFILE%20VIEWS&color=6366F1&style=flat-square"/>
 
-<br/><br/>
+<br><br>
 
-<sub>Building from India 🇮🇳 · Exploring what's next in AI</sub>
+<sub>Always building something new.</sub>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39ff14,50:111827,100:0d1117&height=100&section=footer" width="100%"/>
