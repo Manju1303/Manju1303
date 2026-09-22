@@ -27,7 +27,7 @@
 
 ## 👋 About Me
 
-I'm a final-year **B.Tech AI & Data Science** student building practical, production-shaped AI systems — not toy demos. My focus sits at the intersection of **Generative AI, LLM applications, AI Agents, RAG, and full-stack AI development**: designing the architecture, building the AI layer, then shipping it as a real API and interface.
+I'm the **Founder & CEO of Nexvora Technologies**, and a final-year **B.Tech AI & Data Science** student building practical, production-shaped AI systems — not toy demos. My focus sits at the intersection of **Generative AI, LLM applications, AI Agents, RAG, and full-stack AI development**: designing the architecture, building the AI layer, then shipping it as a real API and interface.
 
 ```
 IDEA → AI ARCHITECTURE → LLM / RAG / AGENT → API + APP → TEST → DEPLOY
@@ -44,6 +44,7 @@ B.Tech — AI & Data Science, JKKMCT
 Graduating 2027
 
 **⚡ Identity**
+Founder & CEO, Nexvora Technologies
 GenAI Engineer · Agentic Coder · AI Builder
 
 **📍 Based in**
